@@ -1,2 +1,2 @@
 # did-root-validation
-Contains the cryptographic information used to verify ownership of my GitHub profile using the did:root wallet
+Public Key: AAAAC3NzaC1lZDI1NTE5AAAAIK0wmN/Cr3JXqmLW7u+g9pTh+wyqDHpSQEIQczXkVx9q
